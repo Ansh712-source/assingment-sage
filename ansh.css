@@ -1,0 +1,31 @@
+.header7{
+background-color: bisque;
+}
+.header7 nav{
+    display: flex;
+    justify-content: space-around;
+}
+.header7 nav ul{
+    display: flex;
+    gap: 90px;
+    image-rendering: auto;
+}
+.ansh h1{
+    font-style: italic;
+    font-size: xx-large;
+}
+.ansh h2{
+    font-size: medium;
+}
+.ansh div{
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+.ansh h2{
+    font-size: larger;
+}
+.annsh{
+    font-size: x-large;
+}
